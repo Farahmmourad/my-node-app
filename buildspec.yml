@@ -20,3 +20,4 @@ artifacts:
   files: 
     - imagedefinitions.json
     - appspec.yml
+    - scripts/deploy.sh
