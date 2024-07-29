@@ -4,7 +4,7 @@ const port = 3000;
 
 // Endpoint 1: Home
 app.get('/', (req, res) => {
-    res.send('Hello, this is the home endpoint!');
+    res.send('Hello, Tarek, this is the home endpoint!');
 });
 
 // Endpoint 2: About
